@@ -1,11 +1,11 @@
-# Check Onboarding Go Template
+# PoC SDK unico webframe JS
 
-Este repositório tem o propósito de servir como PoC para SDK js via importação de arquivo diretamente, sem uso de frameworks.
+Este repositório tem o propósito de servir como PoC para SDK unico-webframe js via importação de arquivo diretamente, sem uso de frameworks.
 
 ## Como Usar:
 
 - Abra o projeto no visual studio code
-- Instale algum local server, por exemplo Live Server e rode o projeto.
+- Instale algum plugin local server, como por exemplo Live Server e rode o projeto.
 
 ## Aviso: 
 
